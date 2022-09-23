@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Aston3</string>
+
+    <string name="lesson_1">Lesson 1</string>
+    <string name="lesson_picasso">Picasso</string>
+    <string name="lesson_glide">Glide</string>
+
+    <string name="edit_text_hint">Вставьте ссылку</string>
+
+    <string name="load_image">Load image</string>
+</resources>
